@@ -1,1 +1,1 @@
-# testing_sycnch
+# testing_synch
